@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobert-debug
-- 👀 I’m interested in Game development, web design and minecraft plugins/servers
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Gamedev, Apps development and Web design
+- 🌱 I know C#, Java, HTML (Learning CS)
 - 📫 Reach me in robertdev017@gmail.com
 
 <!---
