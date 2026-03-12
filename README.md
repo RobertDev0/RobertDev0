@@ -29,7 +29,7 @@ These past years I have been pretty involved in the hackathon scene, in which I 
 | **Honorable Mention** | bitsxlaMarató 2025 | [NEST](https://devpost.com/software/porksinbits-hack-the-uterus) – AI clinical decision tool for personalized endometrial cancer risk stratification |
 
 ## Outside the coding
-Outside of tech I’m obsessed with languages and cultures. I love how learning a new language completely rewires the way you see the world and connect with people. Right now I’m grinding Chinese (B1 and climbing) and I’m heading to China this summer to fully immerse myself — traveling, chatting with locals, and soaking up the insane AI ecosystem happening over there.
+Outside of tech I’m obsessed with languages and cultures. I love how learning a new language completely rewires the way you see the world and connect with people. Right now I’m grinding Chinese (HSK4 and climbing) and I’m heading to China this summer to fully immerse myself — traveling, chatting with locals, and soaking up the insane AI ecosystem happening over there.
 
 ## My long-term goal
 Learn fast, build things, work with people smarter than me, and eventually create something that matters.
