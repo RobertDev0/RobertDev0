@@ -10,7 +10,7 @@
 
 Hey 👋  
 
-I’m a 19-year-old AI Engineering student at UPC Barcelona. I am a guy who loves building stuff that actually gets used.
+I’m a 20-year-old AI Engineering student at UPC Barcelona. I am a guy who loves building stuff that actually gets used.
 
 Right now working at a McDonald's franchise, shipping **Skore**, a SaaS platform for restaurant franchises. Employee management, automated compliance, real-time dashboards, and soon AI decision support. Soon to be live, and will be used by real teams every day with over 200 people depending on it — exactly where the best learning happens.
 
